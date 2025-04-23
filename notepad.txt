@@ -1,5 +1,31 @@
-====================================
-Anotações de Aula
-====================================
-*   Instalar o Selenium no Virtual Enviroment:
+=========================================
+📌 ANOTAÇÕES DA AULA
+=========================================
+
+📍 Assunto: Testes automatizado com Selenium
+
+-----------------------------------------
+📝 PRINCIPAIS PONTOS:
+-----------------------------------------
+- 🔹 Instalação do Selenium para o Python
+  → Instalar o Selenium no Virtual Enviroment:
         pip install selenium
+  → Conferir a Instalação: 
+        pip show selenium
+- 🔹 [Tópico 2]
+  → [Detalhes ou explicações]
+- 🔹 [Tópico 3]
+  → [Detalhes ou explicações]
+
+-----------------------------------------
+❓ DÚVIDAS E QUESTÕES:
+-----------------------------------------
+- ❔ [Pergunta 1]
+- ❔ [Pergunta 2]
+
+-----------------------------------------
+📌 REFERÊNCIAS:
+-----------------------------------------
+🔗 [Links, livros, artigos]
+
+

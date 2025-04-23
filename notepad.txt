@@ -1,0 +1,5 @@
+====================================
+Anotações de Aula
+====================================
+*   Instalar o Selenium no Virtual Enviroment:
+        pip install selenium

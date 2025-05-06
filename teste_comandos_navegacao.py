@@ -20,13 +20,21 @@ time.sleep(2)
 browser.back()
 
 browser.get("https://uol.com.br")
-time.sleep(2)
+#time.sleep(2)
 # forward() - Avança para a próxima página
 browser.forward()
 
 # close() - Fecha a aba atual do navegador
-#browser.close()
+browser.switch_to.new_window("tab")
+browser.get("http://www.soucedemo.com/")
+
+browser.switch_to.new_window("tab")
+browser.get("http://www.souce-demo.myshopfy.com/")
 time.sleep(2)
+
+# close() - Fecha a aba atual do navegador
+browser.close()
+
 
 # quit() - Fecha o navegador
 browser.quit()

@@ -35,9 +35,5 @@ time.sleep(2)
 # close() - Fecha a aba atual do navegador
 browser.close()
 
-
 # quit() - Fecha o navegador
 browser.quit()
-
-
-

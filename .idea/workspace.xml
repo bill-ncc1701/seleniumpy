@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3159fa-17ab-49b0-b2d0-0781dbf794e3" name="Changes" comment="teste dos comandos de navegação do webdrive.">
+    <list default="true" id="ab3159fa-17ab-49b0-b2d0-0781dbf794e3" name="Changes" comment="rename">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste_comandos_navegacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste_comandos_navegacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_comandos_localizar_elementos.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_comandos_localizar_elementos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste_comandos_navegacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_comandos_navegacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.test_comandos_localizar_elementos.executor&quot;: &quot;Run&quot;,
     &quot;Python.teste_comandos_navegacao.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -101,13 +103,40 @@
       <option name="project" value="LOCAL" />
       <updated>1746533703752</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="criacao do teste dos comandos de localizacao de eelementos do webdriver.">
+      <option name="closed" value="true" />
+      <created>1746888513809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746888513809</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1746888544060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746888544061</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rename">
+      <option name="closed" value="true" />
+      <created>1746889098015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746889098015</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update project to linux pycharm with Python 3.12 Virtual Environment" />
     <MESSAGE value="set sleep to 10sec" />
     <MESSAGE value="teste dos comandos de navegação do webdrive." />
-    <option name="LAST_COMMIT_MESSAGE" value="teste dos comandos de navegação do webdrive." />
+    <MESSAGE value="criacao do teste dos comandos de localizacao de eelementos do webdriver." />
+    <MESSAGE value="update" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
 </project>

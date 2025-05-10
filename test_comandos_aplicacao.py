@@ -6,7 +6,7 @@ browser = webdriver.Chrome()
 browser.get("https://www.saucedemo.com/")
 
 # title() - Retorna o título da página
-print("O t'titulo da página é: ", browser.title)
+print("O titulo da página é: ", browser.title)
 
 # current_url() - Retorna a URL atual
 print("A URL atual é: ", browser.current_url)

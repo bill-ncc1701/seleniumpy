@@ -12,7 +12,6 @@ browser.get("https://www.saucedemo.com/")
 # username = browser.find_element(By.ID, "user-name")
 # password = browser.find_element(By.ID, "password")
 
-
 # send_keys() - Envia texto para o elemento
 # username.send_keys("standard_user")
 # password.send_keys("secret_sauce")

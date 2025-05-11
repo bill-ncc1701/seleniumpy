@@ -25,6 +25,7 @@ assert not checkbox_remember_me.is_selected()
 
 # Seleciona o checkbox
 checkbox_remember_me.click()
+time.sleep(2)
 assert checkbox_remember_me.is_selected()
 print("O Elemento 'remember me' está selecionado:",checkbox_remember_me.is_selected())
 time.sleep(5)

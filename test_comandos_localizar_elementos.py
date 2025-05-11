@@ -9,14 +9,14 @@ browser.maximize_window()
 browser.get("https://www.saucedemo.com/")
 
 # find_element() - Localiza um elemento na página
-# username = browser.find_element(By.ID, "user-name")
-# password = browser.find_element(By.ID, "password")
+username = browser.find_element(By.ID, "user-name")
+password = browser.find_element(By.ID, "password")
 
 # send_keys() - Envia texto para o elemento
-# username.send_keys("standard_user")
-# password.send_keys("secret_sauce")
+username.send_keys("standard_user")
+password.send_keys("secret_sauce")
 
-
+time.sleep(5)
 # find_elements() - Localiza vários elementos na página
 auth_fields = browser.find_elements(By.XPATH, "//*[@class='input_error form_input']")
 

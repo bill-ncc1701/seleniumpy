@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3159fa-17ab-49b0-b2d0-0781dbf794e3" name="Changes" comment="rename">
+    <list default="true" id="ab3159fa-17ab-49b0-b2d0-0781dbf794e3" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_comandos_localizar_elementos.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_comandos_localizar_elementos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste_comandos_navegacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_comandos_navegacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.test_comandos_aplicacao.executor&quot;: &quot;Run&quot;,
     &quot;Python.test_comandos_localizar_elementos.executor&quot;: &quot;Run&quot;,
     &quot;Python.teste_comandos_navegacao.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -127,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746889098015</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="criação do teste para comandos de aplicação.">
+      <option name="closed" value="true" />
+      <created>1746889225013</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746889225013</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <option name="closed" value="true" />
+      <created>1746889382582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746889382582</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,8 +151,9 @@
     <MESSAGE value="set sleep to 10sec" />
     <MESSAGE value="teste dos comandos de navegação do webdrive." />
     <MESSAGE value="criacao do teste dos comandos de localizacao de eelementos do webdriver." />
-    <MESSAGE value="update" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="criação do teste para comandos de aplicação." />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

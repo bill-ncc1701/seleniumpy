@@ -9,7 +9,7 @@ browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()
 browser.implicitly_wait(12)
 
 browser.maximize_window()
-browser.get("https://checher.tech/practice/practice-dropdowns-selenium-webdriver")
+browser.get("http://192.168.56.103:8484/pratice-dropdowns.html")
 
 dropdown_products = Select (browser.find_element(By.XPATH,"//select[@id='first']"))
 dropdown_products.select_by_visible_text("Google")
